@@ -3,6 +3,7 @@
 Python data science project that explores the real and fake news datasets and uses a simple recurrent neural network (RNN) to determine if a given news article is real or fake.
 
 [Data exploration and comments](datasetAnalysis.ipynb)
+
 [Main file](news.py)
 
 ### Source: 

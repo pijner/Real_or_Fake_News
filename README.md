@@ -1,6 +1,6 @@
 # Real or Fake News
 
-Machine learning project that uses a simple recurrent neural network (RNN) to determine if a given news article is real or fake.
+Python data science project that explores the real and fake news datasets and uses a simple recurrent neural network (RNN) to determine if a given news article is real or fake.
 
 ### Source: 
     https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset
